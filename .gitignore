@@ -1,0 +1,96 @@
+==========================
+
+GLOBAL & OS & IDEs
+
+==========================
+
+.DS_Store
+.Thumbs.db
+*.log
+*.tmp
+*.swp
+*.class
+*.pyc
+.cpython-.pyc
+pycache/
+
+IDEs (VS Code, IntelliJ, etc)
+
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+Environment Variables (Seguridad Crítica)
+
+.env
+.env.local
+.env.*
+env/
+
+Node Modules (General para cualquier parte del proyecto)
+
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log
+
+==========================
+
+FRONTEND (pet_virtual_front)
+
+==========================
+
+Flutter/Dart
+
+pet_virtual_front/.dart_tool/
+pet_virtual_front/.flutter-plugins-dependencies
+pet_virtual_front/.pub-cache/
+pet_virtual_front/.pub/
+pet_virtual_front/build/
+pet_virtual_front/coverage/
+
+Documentation
+
+pet_virtual_front/**/doc/api/
+
+iOS related
+
+pet_virtual_front/**/ios/Flutter/.last_build_id
+
+Symbolication & Obfuscation
+
+pet_virtual_front/app..symbols
+pet_virtual_front/app..map.json
+
+Android Studio artifacts
+
+pet_virtual_front/android/app/debug
+pet_virtual_front/android/app/profile
+pet_virtual_front/android/app/release
+
+Swift Package Manager
+
+pet_virtual_front/.swiftpm/
+pet_virtual_front/.build/
+pet_virtual_front/migrate_working_dir/
+
+==========================
+
+BACKEND (petBackend)
+
+==========================
+
+Build outputs
+
+petBackend/dist/
+petBackend/test-output/
+
+Chroma DB
+
+petBackend/chroma_db/
+
+Excel test files specific path
+
+petBackend/src/rag_system/excel_test/*.xlsx
