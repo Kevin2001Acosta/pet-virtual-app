@@ -1,16 +1,27 @@
-# flutter_prueba
+# Fronted de Unitep
 
-A new Flutter project.
+## Requisitos Previos
 
-## Getting Started
+- **Flutter SDK**: 3.24.0 o superior
+- **Dart SDK**: 3.5.0 o superior (incluido con Flutter)
+- **Android Studio** O **VS Code** con extensión de Flutter
+- **Git**
 
-This project is a starting point for a Flutter application.
+### Dispositivo de Prueba (uno de estos):
 
-A few resources to get you started if this is your first Flutter project:
+- **Android**: Dispositivo físico con Android 6.0+ (API 23+) O Emulador Android
+-   
+## Instalación
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. Asegúrate de estar en la carpeta `frontend` del proyecto:
+cd Pet_virtual_front
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. Instalar Dependencias
+flutter pub get
+
+## 3. Verfica que el flutter si esta instalado
+flutter doctor
+
+## 4. Corre la pp
+flutter run
+
