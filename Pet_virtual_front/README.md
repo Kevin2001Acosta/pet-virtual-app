@@ -36,7 +36,7 @@ flutter doctor
 ```bash
 flutter run
 ```
-## 📱 Descarga Rápida
+#📱 Descarga Rápida
 
 ¿Solo quieres probar la app? Descarga el APK directamente:
 
