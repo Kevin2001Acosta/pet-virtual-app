@@ -1,4 +1,4 @@
-# Pet Virtual App
+# Unipet
 
 <p align="center">
   <img src="Pet_virtual_front/assets/images/mascota.png" alt="Mascota" width="200">
