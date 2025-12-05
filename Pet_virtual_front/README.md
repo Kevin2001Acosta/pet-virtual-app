@@ -24,19 +24,19 @@
 cd Pet_virtual_front
 ```
 
-### 2. Instalar Dependencias
+ ### 2. **Instalar Dependencias**
 ```bash
 flutter pub get
 ```
-## 3. Verfica que el flutter si esta instalado
+### 3. **Verficar que el flutter si esta instalado**
 ```bash
 flutter doctor
 ```
-## 4. Corre la pp
+### 4. **Ejecutar la aplicación**
 ```bash
 flutter run
 ```
-#📱 Descarga Rápida
+## 📱 Descarga Rápida
 
 ¿Solo quieres probar la app? Descarga el APK directamente:
 
