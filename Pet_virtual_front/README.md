@@ -28,7 +28,7 @@ cd Pet_virtual_front
 ```bash
 flutter pub get
 ```
-### 3. **Verficar que el flutter si esta instalado**
+### 3. **Verificar que Flutter este instalado**
 ```bash
 flutter doctor
 ```
